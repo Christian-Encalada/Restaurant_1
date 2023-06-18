@@ -1,16 +1,6 @@
-# hdt_flutter
+Hola aqui muestro la capturas de mi proyecto:
 
-A new Flutter project.
+![image](https://github.com/Christian-Encalada/Restaurant_1/assets/115563495/aad99da2-db63-4e05-8c26-e81c368f9fc7)
 
-## Getting Started
+![image](https://github.com/Christian-Encalada/Restaurant_1/assets/115563495/ed1ae96f-3095-48f0-b763-012728fbaea2)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
